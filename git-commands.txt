@@ -1,0 +1,7 @@
+ git init
+git status
+ git add index.html styles.css
+git add .
+git commit -m "sample project"
+git remote add origin https://github.com/akhilkailas017/sample.git
+git push origin master
